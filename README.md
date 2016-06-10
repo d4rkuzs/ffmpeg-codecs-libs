@@ -18,7 +18,6 @@ yasm 1.2.0 (this is how the result should look)
 
 #Codecs and video conversion tools
 
-
 #LIBOGG
 cd /usr/local/src/libogg-1.3.0
 make distclean
